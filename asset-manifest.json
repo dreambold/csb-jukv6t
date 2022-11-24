@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dreambold.github.io/csb-jukv6t/static/css/main.189fc696.chunk.css",
+    "main.js": "https://dreambold.github.io/csb-jukv6t/static/js/main.daefc187.chunk.js",
+    "main.js.map": "https://dreambold.github.io/csb-jukv6t/static/js/main.daefc187.chunk.js.map",
+    "runtime-main.js": "https://dreambold.github.io/csb-jukv6t/static/js/runtime-main.40c6b8dc.js",
+    "runtime-main.js.map": "https://dreambold.github.io/csb-jukv6t/static/js/runtime-main.40c6b8dc.js.map",
+    "static/js/2.45f28cf7.chunk.js": "https://dreambold.github.io/csb-jukv6t/static/js/2.45f28cf7.chunk.js",
+    "static/js/2.45f28cf7.chunk.js.map": "https://dreambold.github.io/csb-jukv6t/static/js/2.45f28cf7.chunk.js.map",
+    "index.html": "https://dreambold.github.io/csb-jukv6t/index.html",
+    "static/css/main.189fc696.chunk.css.map": "https://dreambold.github.io/csb-jukv6t/static/css/main.189fc696.chunk.css.map",
+    "static/js/2.45f28cf7.chunk.js.LICENSE.txt": "https://dreambold.github.io/csb-jukv6t/static/js/2.45f28cf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40c6b8dc.js",
+    "static/js/2.45f28cf7.chunk.js",
+    "static/css/main.189fc696.chunk.css",
+    "static/js/main.daefc187.chunk.js"
+  ]
+}
